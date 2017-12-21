@@ -1,2 +1,2 @@
 # data-101
-practica del modulo data 101
+practica del módulo data 101
